@@ -4,7 +4,7 @@ Taskora is a clean and responsive task management app built with React and Tailw
 
 ## Live Demo
 
-**Live URL:** 
+**Live Demo:** https://taskora-tasks.vercel.app
 
 ## Features
 
